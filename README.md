@@ -1,6 +1,6 @@
 Hi, I'm Mitchell Painter.
 
-I'm currently enrolled in a Bootcamp, studying for a diploma in IT at AIT/Coder Academy, majoring in Web Development and design. 
+I have recently completed a Bootcamp, graduating with a diploma in IT from AIT/Coder Academy, majoring in Web Development and design. 
 I am enjoying learning and developing my expertise and experience in the following technologies:
 - HTML5/XHTML
 - CSS/SCSS
