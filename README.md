@@ -26,4 +26,4 @@ When I'm not creating, collaborating or coding, you'll find me listening to musi
 If you would like to work on amazing projects together, you can find me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mitchell-painter-5332a4233/)
 
-Please see [My personal portfolio](https://mitchell-painter.netlify.app/)
+Please see [my Portfolio](https://mitchell-painter.netlify.app/)
